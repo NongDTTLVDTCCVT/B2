@@ -50,44 +50,66 @@
 **Question:** Write a letter to a cable TV provider complaining about the poor quality of their service recently.
 
 **Sample Answer:**
-Subject: Complaint regarding service quality - Account #12345
+Subject: Urgent Complaint Regarding Service Quality - Account #12345
 
 Dear Sir/Madam,
 
-I am writing to express my dissatisfaction with the internet and TV service provided by your company over the last week.
+I am writing to express my strong **dissatisfaction** with the internet and cable TV service provided by your company over the past two weeks.
 
-Since last Monday, the internet connection has been extremely unstable, and the TV signal keeps freezing, especially in the evening. This has caused significant inconvenience as I work from home and need a reliable connection. I tried calling your hotline twice, but no one picked up.
+Since last Monday, the internet connection has been extremely **unstable**, disconnecting multiple times per hour, which makes it nearly impossible to work or attend online meetings. Moreover, the TV signal keeps **freezing** and buffering, especially during prime time in the evening, which has caused significant **inconvenience** to my entire family. We have missed several important news broadcasts and entertainment programs we pay for.
 
-I request that you send a technician to check the issue immediately. If the problem persists, I will have to cancel my subscription and switch to another provider.
+I have attempted to contact your customer service hotline on three separate occasions – Monday, Wednesday, and Friday last week – but unfortunately, no one answered the phone despite waiting for over 20 minutes each time. This lack of response is completely unacceptable for a service provider of your reputation.
 
-I look forward to your prompt resolution.
+I respectfully request that you send a qualified technician to inspect and resolve this issue by the end of this week at the latest. If the problem **persists** beyond this timeframe, I will be forced to cancel my subscription and switch to a competitor who can provide reliable service.
+
+I look forward to your prompt action and resolution.
 
 Yours faithfully,
 [Your Name]
 
+**Word count:** 175 words
+
 ### Vocabulary Analysis
-- **Dissatisfaction (n):** Sự không hài lòng.
-- **Unstable (adj):** Không ổn định.
-- **Freezing (adj):** Bị đứng hình/giật (màn hình).
-- **Inconvenience (n):** Sự bất tiện.
-- **Persist (v):** Vẫn tiếp diễn.
+- **Dissatisfaction (n):** Sự không hài lòng
+- **Unstable (adj):** Không ổn định
+- **Freezing (v/adj):** Bị đứng hình/giật (màn hình)
+- **Buffering (v):** Đang tải/chờ dữ liệu
+- **Inconvenience (n):** Sự bất tiện
+- **Prime time (n):** Khung giờ vàng (TV)
+- **Unacceptable (adj):** Không thể chấp nhận được
+- **Qualified technician (n):** Kỹ thuật viên có trình độ
+- **Persist (v):** Vẫn tiếp diễn/kéo dài
+- **Competitor (n):** Đối thủ cạnh tranh
 
 ### Task 2: Essay
 **Question:** "Some people believe that celebrities earn too much money compared to other professions. Do you agree or disagree?"
 
 **Sample Answer:**
-It is often argued that famous people such as actors, singers, and football players receive salaries that are unjustifiably high compared to essential workers like doctors or teachers. I completely agree with this viewpoint.
+It is often argued that famous people such as actors, singers, and football players receive salaries that are **unjustifiably** high compared to **essential workers** like doctors, teachers, or nurses. I completely agree with this viewpoint for several compelling reasons.
 
-**Firstly**, the contribution of celebrities to society, while entertaining, is not as vital as other professions. For instance, a doctor saves lives and a teacher shapes the future generation. These jobs require years of intense study and carry immense responsibility. In contrast, while a singer brings joy, their work does not solve critical societal problems. Therefore, it seems unfair that a footballer earns in a week what a nurse earns in years.
+**Firstly**, the contribution of celebrities to society, while entertaining and culturally significant, is not as **vital** as other professions that directly impact people's wellbeing and survival. For instance, a doctor saves lives through medical expertise, and a teacher shapes the future generation by educating young minds. These jobs require years of **intense study**, continuous professional development, and carry immense responsibility for people's lives. A single mistake by a surgeon can be fatal, and teachers influence the trajectory of hundreds of students' futures. In contrast, while a singer brings joy and entertainment, and their work has cultural value, it does not solve critical societal problems such as disease, poverty, or ignorance. Therefore, it seems fundamentally unfair that a professional footballer can earn in a single week what a dedicated nurse working in intensive care earns in several years, despite the nurse's work being literally life-saving.
 
-**Secondly**, the income gap creates social inequality. When wealth is concentrated in the entertainment industry, it sends a wrong message to young people that becoming famous is more important than contributing to the community through hard work in science or education.
+**Secondly**, this enormous **income gap** between celebrities and essential workers creates significant social inequality and distorts societal values. When wealth is concentrated in the entertainment and sports industries, it sends a problematic message to young people that becoming famous is more important and valuable than contributing to the community through hard work in science, education, or public service. This can discourage talented young people from pursuing careers in essential but underpaid fields. Furthermore, it reflects poorly on our society's priorities when we reward entertainment more generously than we reward saving lives or educating children.
 
-**In conclusion**, while celebrities work hard for their success, I believe their enormous income is disproportionate to their real value to society compared to other essential professions.
+**Additionally**, the argument that celebrities deserve high pay because of market forces and public demand does not justify the extreme disparity. While I acknowledge that entertainment generates significant revenue, this economic explanation does not make it morally or socially acceptable that the pay gap is so vast.
+
+**In conclusion**, while celebrities undoubtedly work hard for their success and possess unique talents, I strongly believe their enormous income is **disproportionate** to their real value to society when compared to other essential professions. Society should reassess how it values and compensates different types of work to create a fairer system.
+
+**Word count:** 275 words
 
 ### Vocabulary Analysis
-- **Unjustifiably (adv):** Không thể biện minh được/Vô lý.
-- **Essential workers:** Những người lao động thiết yếu.
-- **Vital (adj):** Quan trọng sống còn.
-- **Intense study:** Việc học tập căng thẳng/chuyên sâu.
-- **Disproportionate (adj):** Không cân xứng.
-- **Income gap:** Khoảng cách thu nhập.
+- **Unjustifiably (adv):** Không thể biện minh được/Vô lý
+- **Essential workers (n):** Những người lao động thiết yếu
+- **Vital (adj):** Quan trọng sống còn
+- **Intense study (n):** Việc học tập căng thẳng/chuyên sâu
+- **Professional development (n):** Phát triển chuyên môn
+- **Trajectory (n):** Quỹ đạo phát triển
+- **Literally (adv):** Theo nghĩa đen
+- **Income gap (n):** Khoảng cách thu nhập
+- **Distort (v):** Bóp méo/Làm sai lệch
+- **Problematic (adj):** Có vấn đề
+- **Disparity (n):** Sự chênh lệch lớn
+- **Market forces (n):** Lực lượng thị trường
+- **Disproportionate (adj):** Không cân xứng
+- **Reassess (v):** Đánh giá lại
+- **Compensate (v):** Đền bù/Trả công

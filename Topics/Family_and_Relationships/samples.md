@@ -44,42 +44,62 @@
 **Question:** Write an email to your cousin inviting him to a family reunion party next month.
 
 **Sample Answer:**
-Subject: Family Reunion Invitation!
+Subject: Special Invitation - Golden Anniversary Family Reunion!
 
 Hi Nam,
 
-Long time no see! How is life in Ho Chi Minh City?
+Long time no see! How is life treating you in Ho Chi Minh City? I hope your new job is going well.
 
-I’m writing to let you know that our grandparents are organizing a big family reunion next month to celebrate their 50th wedding anniversary. It will be held at our old house in Hometown on Sunday, February 20th.
+I'm writing to give you some wonderful news and invite you to a very special event. Our beloved grandparents are organizing a big family **reunion** next month to **celebrate** their 50th wedding **anniversary** – what an incredible milestone! The celebration will be held at our old family house in Hometown on Sunday, February 20th, starting at 11 AM. We're planning a traditional Vietnamese lunch followed by a tea ceremony and family photo session.
 
-Everyone will be there, including Aunt Mai from Canada. It would be amazing if you could come. We haven't seen each other for ages, and Grandma really misses you.
+Everyone will be there, including Uncle Minh's family, Aunt Mai flying in all the way from Canada, and even cousin Linh from Da Nang. It would be absolutely amazing if you could come. We haven't seen each other **for ages** – I think the last time was at Tet three years ago! Grandma asks about you every time I visit, and she really misses you. She specifically asked me to make sure you can attend.
 
-Let me know if you can arrange your work to join us.
+Please let me know as soon as possible if you can **arrange** your work schedule to join us. If you need help booking a bus ticket or need a ride from the station, just tell me.
+
+Looking forward to seeing you!
 
 Love,
 [Your Name]
 
+**Word count:** 170 words
+
 ### Vocabulary Analysis
-- **Reunion (n):** Cuộc sum họp/Đoàn tụ.
-- **Celebrate (v):** Kỷ niệm/Ăn mừng.
-- **For ages:** Đã rất lâu rồi.
-- **Arrange (v):** Sắp xếp.
+- **Reunion (n):** Cuộc sum họp/Đoàn tụ
+- **Celebrate (v):** Kỷ niệm/Ăn mừng
+- **Anniversary (n):** Ngày kỷ niệm
+- **Milestone (n):** Cột mốc quan trọng
+- **Tea ceremony (n):** Lễ pha trà (truyền thống Việt Nam)
+- **For ages (idiom):** Đã rất lâu rồi
+- **Arrange (v):** Sắp xếp
+- **Specifically (adv):** Cụ thể/Đặc biệt
 
 ### Task 2: Essay
 **Question:** "Some people think that huge family gatherings are becoming less common in modern life. Why is this happening? Is this a negative or positive trend?"
 
 **Sample Answer:**
-In recent years, large family gatherings have become increasingly rare. This essay will discuss the reasons for this trend and argue that despite some practical benefits, it is largely a negative development.
+In recent years, large family gatherings have become increasingly rare, particularly in urban areas. This essay will examine the reasons behind this trend and argue that despite some practical benefits, it is largely a negative development that weakens the social fabric of communities.
 
-The primary reason for fewer family get-togethers is the busy modern lifestyle. People are constantly under pressure from work and study, leaving them with little time for socializing, even with relatives. Additionally, urbanization has caused family members to live far apart in different cities or even countries, making frequent travel for reunions expensive and difficult.
+There are several factors contributing to the decline of family **get-togethers**. The primary reason is the busy modern lifestyle that characterizes contemporary society. People are constantly under pressure from demanding work schedules and intensive study commitments, leaving them with little time or energy for socializing, even with close relatives. For example, many young professionals work overtime regularly and cannot afford to take time off for family events. Additionally, **urbanization** has fundamentally changed how families live. Family members now often live far apart in different cities or even countries, pursuing better career opportunities. This geographical dispersion makes frequent travel for reunions both expensive and logistically difficult. The cost of transportation and accommodation can be prohibitive, especially for large families.
 
-However, I believe this is a negative trend. Family is the fundamental unit of support in society. When connections weaken, individuals may feel more isolated and lack emotional support during difficult times. Moreover, younger generations lose touch with their traditions and roots if they rarely interact with extended family members.
+Furthermore, modern technology, while connecting people virtually, has paradoxically reduced the perceived need for physical gatherings. Many people feel that video calls and social media messages are sufficient to maintain family relationships, though this is a superficial substitute for face-to-face interaction.
 
-**In conclusion**, while distance and busy schedules are the main causes, the decline of family gatherings is regrettable as it weakens the family bond and emotional support systems.
+However, I firmly believe this is a negative trend with serious social consequences. Family is the **fundamental unit** of support in any society, providing emotional stability and practical assistance. When family connections weaken, individuals may feel more isolated and lack crucial emotional support during difficult times such as illness or unemployment. Research has shown that people with strong family ties have better mental health and greater life satisfaction. Moreover, younger generations **lose touch with** their cultural traditions and roots if they rarely interact with extended family members, particularly grandparents who are the keepers of family history and cultural knowledge. Traditional values, customs, and even language skills can be lost across generations without regular contact.
+
+**In conclusion**, while distance and busy schedules are the main causes of declining family gatherings, this trend is **regrettable** as it weakens the family bond, erodes emotional support systems, and threatens cultural continuity. Families should make conscious efforts to prioritize regular gatherings despite modern challenges.
+
+**Word count:** 280 words
 
 ### Vocabulary Analysis
-- **Get-together (n):** Buổi tụ tập/ngồi lại với nhau.
-- **Urbanization (n):** Đô thị hóa.
-- **Fundamental unit:** Đơn vị cơ bản/nền tảng.
-- **Lose touch with:** Mất liên lạc/xa rời.
-- **Regrettable (adj):** Đáng tiếc.
+- **Get-together (n):** Buổi tụ tập/ngồi lại với nhau
+- **Urbanization (n):** Đô thị hóa
+- **Geographical dispersion (n):** Sự phân tán về mặt địa lý
+- **Logistically (adv):** Về mặt hậu cần
+- **Prohibitive (adj):** Đắt đỏ cấm/Không thể chi trả được
+- **Paradoxically (adv):** Một cách nghịch lý
+- **Superficial substitute (n):** Sự thay thế hời hợt
+- **Fundamental unit (n):** Đơn vị cơ bản/nền tảng
+- **Life satisfaction (n):** Sự hài lòng với cuộc sống
+- **Lose touch with (phrase):** Mất liên lạc/xa rời
+- **Cultural continuity (n):** Sự liên tục văn hóa
+- **Regrettable (adj):** Đáng tiếc
+- **Erode (v):** Xói mòn/Làm suy yếu

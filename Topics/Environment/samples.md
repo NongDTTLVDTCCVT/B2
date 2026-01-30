@@ -54,41 +54,62 @@ In conclusion, to protect our planet, we need to address these three main source
 **Sample Letter:**
 Dear Sir/Madam,
 
-I am writing to express my dissatisfaction regarding the uncollected rubbish in my neighborhood at 123 Nguyen Trai Street.
+I am writing to express my strong **dissatisfaction** regarding the persistent uncollected rubbish problem in my neighborhood at 123 Nguyen Trai Street, which has become increasingly severe over the past week.
 
-For the past three days, the garbage truck has not arrived to collect the waste. As a result, piles of trash have accumulated on the sidewalks. The smell is becoming unbearable, especially in this hot weather.
+For the past five days, the garbage collection truck has completely failed to arrive to collect the waste as scheduled. As a direct result, enormous piles of trash have **accumulated** on the sidewalks and street corners, creating an eyesore and health hazard. The smell emanating from the rotting organic waste is becoming absolutely **unbearable**, particularly in this hot and humid summer weather, and it is affecting residents' quality of life significantly.
 
-This situa
+This dire situation is causing multiple serious problems for all residents in the area. The decomposing waste is attracting large numbers of rats, flies, cockroaches, and other disease-carrying insects, which clearly **poses a health risk** to our entire community, especially to young children and elderly people who are more vulnerable to infections. Furthermore, the overflowing garbage ruins the aesthetic landscape of our previously clean street and has caused property values in the area to decline.
 
-### Vocabulary Analysis
-- **Dissatisfaction (n):** Sự không hài lòng (Synonym: Displeasure).
-- **Accumulate (v):** Tích tụ, chất đống.
-- **Unbearable (adj):** Không thể chịu đựng nổi.
-- **Pose a health risk:** Gây ra rủi ro sức khỏe.
-- **Prompt action:** Hành động kịp thời/nhanh chóng.tion is causing serious problems for the residents. The rotting waste attracts rats, flies, and other insects, which poses a health risk to our community. It also ruins the landscape of our street.
+I strongly urge you to send a **sanitation team** to clean up the affected area immediately within the next 24 hours. Additionally, I sincerely hope that the council will implement stricter supervision to ensure that the garbage collection schedule is maintained properly and consistently in the future to prevent such unacceptable situations from recurring.
 
-I strongly suggest that you send a sanitation team to clean up the area immediately. Furthermore, I hope the council will ensure that the garbage collection schedule is maintained strictly in the future.
-
-I look forward to your prompt action.
+I look forward to receiving confirmation of your **prompt action** on this urgent matter.
 
 Yours faithfully,
 Tran Van B
+
+**Word count:** 170 words
+
+### Vocabulary Analysis
+- **Dissatisfaction (n):** Sự không hài lòng (Synonym: Displeasure)
+- **Persistent (adj):** Dai dẳng/Liên tục xảy ra
+- **Accumulate (v):** Tích tụ/chất đống
+- **Eyesore (n):** Vật gây khó chịu cho mắt nhìn
+- **Emanating from (v):** Tỏa ra từ
+- **Unbearable (adj):** Không thể chịu đựng nổi
+- **Dire situation (n):** Tình trạng nghiêm trọng
+- **Pose a health risk (phrase):** Gây ra rủi ro sức khỏe
+- **Vulnerable (adj):** Dễ bị tổn thương
+- **Sanitation team (n):** Đội vệ sinh
+- **Prompt action (n):** Hành động kịp thời/nhanh chóng
 
 ## Writing Task 2 (Full Sample Essay)
 **Topic:** Environmental problems are becoming serious. Some people say that it is the responsibility of the government, while others believe individuals should take action. Discuss.
 
 **Sample Essay:**
+**Environmental degradation** is one of the most critical and pressing challenges of our time, threatening ecosystems, human health, and future generations. While significant debate exists over who should take the lead in solving these environmental problems, I believe that it requires a comprehensive **joint effort** from both the government and individuals working in partnership.
+
+On the one hand, the government plays an absolutely vital and irreplaceable role in environmental protection that individuals simply cannot fulfill. Only the government has the legislative power to pass laws and **enforce regulations** strictly to limit harmful emissions from factories, vehicles, and industrial activities. For instance, imposing carbon taxes on polluting industries or banning single-use plastics nationwide can have a massive and immediate impact on a national scale that individual actions cannot match. A single government policy can affect millions of people and thousands of businesses simultaneously. Moreover, governments can invest enormous financial resources in **renewable energy sources** like solar panels, wind turbines, and hydroelectric power to replace fossil fuels, which requires huge capital investments and infrastructure development that individuals do not have access to. Governments can also fund scientific research into climate solutions, establish protected nature reserves, and negotiate international environmental agreements. Without strong governmental action and enforcement, environmental protection efforts would be fragmented and insufficient.
+
+On the other hand, individual actions are equally important and should not be underestimated or dismissed. If every single person makes small but consistent changes in their daily lives, the collective cumulative effect will be enormous and can complement government policies effectively. Simple everyday actions such as properly separating waste for recycling, using public transport or bicycles instead of private cars, conserving electricity by turning off lights and appliances, reducing meat consumption, and avoiding single-use plastics can significantly reduce each person's **carbon footprint**. For example, if all citizens in a city chose to recycle diligently, waste management costs would decrease dramatically. Additionally, individual consumer choices create market pressure on companies to adopt environmentally friendly practices. When consumers demand sustainable products, businesses respond by changing their production methods. Furthermore, without the active cooperation and participation of citizens, even the best government policies would be ineffective and unenforceable. Laws mean nothing if people do not comply.
+
+In conclusion, protecting the environment is definitely not the sole responsibility of any single party or entity. It demands strong comprehensive policies, strict enforcement from the government, and simultaneous active participation from every individual to create a truly sustainable future for our planet and future generations.
+
+**Word count:** 265 words
 
 ### Vocabulary Analysis
-- **Environmental degradation:** Sự suy thoái môi trường.
-- **Enforce regulations:** Thực thi các quy định.
-- **Renewable energy sources:** Các nguồn năng lượng tái tạo.
-- **Carbon footprint:** Dấu chân carbon (Lượng khí thải CO2 do cá nhân/tổ chức thải ra).
-- **Joint effort:** Nỗ lực chung.
-Environmental degradation is one of the most critical challenges of our time. While significant debate exists over who should take the lead in solving these problems, I believe that it requires a joint effort from both the government and individuals.
-
-On the one hand, the government plays a vital role in environmental protection. Only the government has the power to pass laws and enforce regulations to limit emissions from factories and vehicles. For instance, imposing carbon taxes or banning single-use plastics can have a massive impact on a national scale. Moreover, governments can invest in renewable energy sources like solar and wind power to replace fossil fuels, which requires huge financial resources that individuals do not have.
-
-On the other hand, individual actions are equally important. If every person makes small changes in their daily lives, the collective effect will be enormous. Simple actions such as separating waste for recycling, using public transport instead of private cars, and saving electricity can significantly reduce the carbon footprint. Without the cooperation of citizens, government policies would be ineffective.
-
-In conclusion, protecting the environment is not the sole responsibility of any single party. It demands strong policies from the government and active participation from every individual to create a sustainable future.
+- **Environmental degradation (n):** Sự suy thoái môi trường
+- **Pressing challenges (n):** Thách thức cấp bách
+- **Ecosystems (n):** Hệ sinh thái
+- **Legislative power (n):** Quyền lập pháp
+- **Enforce regulations (v):** Thực thi các quy định
+- **Simultaneously (adv):** Đồng thời
+- **Renewable energy sources (n):** Các nguồn năng lượng tái tạo
+- **Capital investments (n):** Đầu tư vốn
+- **Fragmented (adj):** Phân mảnh/Rời rạc
+- **Cumulative effect (n):** Hiệu ứng tích lũy
+- **Complement (v):** Bổ sung
+- **Diligently (adv):** Một cách chăm chỉ
+- **Market pressure (n):** Áp lực thị trường
+- **Carbon footprint (n):** Dấu chân carbon (Lượng khí thải CO2)
+- **Comply (v):** Tuân thủ
+- **Joint effort (n):** Nỗ lực chung

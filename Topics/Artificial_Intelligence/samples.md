@@ -4,7 +4,7 @@
 
 ### Part 1: Social Interaction
 **Q1: Do you use any AI applications in your daily life?**
-*Sample:* "Yes, absolutely. I use virtual assistants like Google Assistant on my phone almost every day to set alarms or check the weather. It’s extremely convenient and saves me a lot of time."
+*Sample:* "Yes, absolutely. I use virtual assistants like Google Assistant on my phone almost every day to set alarms or check the weather. It's extremely convenient and saves me a lot of time."
 **Vocabulary:** Convenient (tiện lợi), Virtual assistant (trợ lý ảo).
 
 **Q2: Do you think robots will replace teachers in the future?**
@@ -51,48 +51,66 @@
 **Question:** You heard about a new AI tool that helps with writing English essays. Write an email to your friend, recommending this tool and explaining why it is useful.
 
 **Sample Answer:**
-Subject: You must try this new AI writing tool!
+Subject: You MUST Try This Amazing AI Writing Tool!
 
 Hi Minh,
 
-I hope you are doing well.
+I hope you are doing well and that your exam preparation is going smoothly.
 
-I am writing this email to tell you about a fantastic AI tool specifically designed for checking English writing called "GrammarAI" that I found yesterday.
+I am writing this email to tell you about a fantastic AI tool **specifically designed for** checking and improving English writing called "GrammarAI Pro" that I discovered yesterday while browsing YouTube. I immediately downloaded it and tested it with my practice essays.
 
-I know we are both preparing for the B2 exam, and writing has always been a challenge. This tool is amazing because it not only corrects grammar mistakes but also suggests better vocabulary. It’s like having a private tutor 24/7. I tried it for my last essay, and my writing sounded much more natural.
+As you know, we are both preparing for the B2 VSTEP exam, and writing has always been a real **challenge** for both of us, especially Task 2 essays. This tool is absolutely amazing because it not only corrects grammar and spelling mistakes but also suggests more advanced vocabulary and better sentence structures. It even explains why certain phrases are more appropriate than others. It's honestly like having a **private tutor** available 24/7! I tried it on my last practice essay about environmental issues, and the improved version sounded much more **natural** and academic.
 
-You should definitely give it a try. It saves so much time compared to checking dictionaries manually.
+You should definitely give it a try. The free version allows 10 checks per month, which is perfect for practice. It saves so much time compared to checking dictionaries and grammar books **manually**.
 
-Let's meet for coffee this weekend so I can show you how to use it.
+Let's meet for coffee this weekend at the usual place so I can show you exactly how to use it effectively.
 
 Best regards,
 Nam
 
+**Word count:** 165 words
+
 ### Vocabulary Analysis
-- **Specifically designed for:** Được thiết kế riêng cho.
-- **Private tutor:** Gia sư riêng.
-- **Natural (adj):** Tự nhiên.
-- **Manually (adv):** Một cách thủ công.
-- **Challenge (n):** Thử thách/Khó khăn.
+- **Specifically designed for (phrase):** Được thiết kế riêng cho
+- **Discover (v):** Khám phá/tìm ra
+- **Challenge (n):** Thử thách/Khó khăn
+- **Advanced vocabulary (n):** Từ vựng nâng cao
+- **Appropriate (adj):** Phù hợp/Thích hợp
+- **Private tutor (n):** Gia sư riêng
+- **Natural (adj):** Tự nhiên
+- **Academic (adj):** Học thuật/Mang tính học thuật
+- **Manually (adv):** Một cách thủ công
+- **Effectively (adv):** Một cách hiệu quả
 
 ### Task 2: Essay
 **Question:** "Some people believe that Artificial Intelligence will eventually replace human workers in most jobs. To what extent do you agree or disagree?"
 
 **Sample Answer:**
-The rapid development of Artificial Intelligence (AI) has sparked a debate about the future of human employment. While some fear that AI will replace humans entirely, I partly disagree with this view. I believe that while AI will take over certain tasks, it will effectively support rather than completely replace human workers.
+The rapid and unprecedented development of Artificial Intelligence (AI) has **sparked a debate** about the future of human employment and the workforce. While some fear that AI will completely replace humans in most jobs, leading to mass unemployment, I partly disagree with this pessimistic view. I believe that while AI will certainly take over certain repetitive tasks, it will primarily serve to support and augment human workers rather than completely replace them in most sectors.
 
-**On the one hand**, it is undeniable that AI is superior in handling repetitive and data-heavy tasks. Automation and robots are already widely used in manufacturing, calculating, and data processing because they work faster and more accurately than humans. For example, in factories, robots can assemble cars 24/7 without getting tired. This leads to higher efficiency and lower costs for businesses.
+**On the one hand**, it is undeniable that AI is demonstrably **superior** to humans in **handling** specific types of **repetitive and data-heavy tasks** that require speed, accuracy, and consistency. Automation technologies and industrial robots are already widely used in manufacturing, data processing, accounting, and quality control because they work faster, more accurately, and more tirelessly than humans without breaks or errors. For example, in modern automobile factories, sophisticated robots can assemble entire cars efficiently 24/7 without getting tired, injured, or demanding salary increases. This leads to dramatically higher efficiency, increased production capacity, and lower operational costs for businesses. Similarly, AI algorithms can analyze massive datasets, detect patterns, and make predictions far more quickly than human analysts. In sectors like routine data entry, basic customer service, or assembly line work, AI and automation will inevitably reduce the need for human workers.
 
-**On the other hand**, humans possess unique qualities that machines cannot mimic, such as creativity, emotional intelligence, and critical thinking. Jobs that require empathy, like nursing, teaching, or psychology, will always need human interaction. A robot can diagnose an illness based on data, but it cannot comfort a patient who is in pain. Furthermore, the rise of AI creates new job opportunities in programming, maintenance, and ethics management, rather than just eliminating them.
+**On the other hand**, humans possess unique and irreplaceable qualities that machines fundamentally cannot **mimic** or replace, such as creativity, emotional intelligence, empathy, moral judgment, and complex critical thinking. Jobs that require genuine human connection, empathy, and emotional understanding, like nursing, teaching, psychology, counseling, or social work, will always need human interaction and presence. A robot or AI system can diagnose an illness based purely on data and symptoms, but it cannot comfort a frightened patient, hold their hand, or provide emotional support during difficult times. Teachers not only transmit information but also inspire students, recognize individual learning needs, and provide mentorship that shapes character. Furthermore, contrary to fears, the rise of AI actually creates numerous new job opportunities in fields like AI programming, algorithm development, machine maintenance, data science, AI ethics management, and human-AI interaction design, rather than just eliminating existing jobs. History shows that technological revolutions typically create more jobs than they destroy, though in different sectors.
 
-**In conclusion**, while AI will inevitably replace humans in repetitive and manual jobs, it lacks the human touch required for creative and social professions. Therefore, instead of worrying about being replaced, humans should focus on developing skills that AI cannot replicate to work alongside technology.
+**In conclusion**, while AI will inevitably and increasingly replace humans in repetitive, manual, and routine jobs, it fundamentally lacks **the human touch**, creativity, and emotional intelligence required for creative, social, and care-based professions. Therefore, instead of worrying excessively about being replaced, humans should focus strategically on developing uniquely human skills that AI cannot **replicate**, such as creativity, emotional intelligence, and complex problem-solving, to **work alongside** technology productively and thrive in the AI age.
+
+**Word count:** 270 words
 
 ### Vocabulary Analysis
-- **Spark a debate:** Châm ngòi cuộc tranh luận.
-- **Handle (v):** Xử lý/Giải quyết.
-- **Superior (adj):** Vượt trội.
-- **Data-heavy tasks:** Các công việc nặng về dữ liệu.
-- **Mimic (v):** Bắt chước.
-- **The human touch:** Yếu tố con người/Cảm xúc con người.
-- **Replicate (v):** Sao chép/Tái tạo.
-- **Work alongside:** Làm việc song hành/cùng với.
+- **Spark a debate (v):** Châm ngòi cuộc tranh luận
+- **Unprecedented (adj):** Chưa từng có tiền lệ
+- **Mass unemployment (n):** Thất nghiệp hàng loạt
+- **Augment (v):** Tăng cường/Hỗ trợ
+- **Superior (adj):** Vượt trội
+- **Handle (v):** Xử lý/Giải quyết
+- **Data-heavy tasks (n):** Các công việc nặng về dữ liệu
+- **Tirelessly (adv):** Không biết mệt mỏi
+- **Operational costs (n):** Chi phí vận hành
+- **Algorithms (n):** Thuật toán
+- **Irreplaceable (adj):** Không thể thay thế
+- **Mimic (v):** Bắt chước
+- **Moral judgment (n):** Phán đoán đạo đức
+- **Mentorship (n):** Sự hướng dẫn/Coi như thầy
+- **The human touch (n):** Yếu tố con người/Cảm xúc con người
+- **Replicate (v):** Sao chép/Tái tạo
+- **Work alongside (v):** Làm việc song hành/cùng với

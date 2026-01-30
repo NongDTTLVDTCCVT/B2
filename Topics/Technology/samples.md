@@ -52,42 +52,64 @@ In conclusion, we should use mobile phones wisely to avoid these negative effect
 **Topic:** Write an email to a friend inviting them to join a computer programming club.
 
 **Sample Email:**
-Subject: Invitation to join the Programming Club!
+Subject: Invitation to Join the Programming Club - You'll Love This!
 
 Hi Minh,
 
-How are you doing? I hope you are studying well. I haven't seen you for a while since the last semester ended.
+How are you doing? I hope you are studying well and everything is going smoothly with your courses. I haven't seen you for ages since the last semester ended – we really need to catch up!
 
-I a
+I am writing to invite you to join a brand new computer programming club that has just been established at our university. I know you are very **interested in** technology and IT, especially app development, so I think this club would be absolutely perfect for you and your career goals.
 
-### Vocabulary Analysis
-- **Passion (n):** Niềm đam mê.
-- **Opportunity (n):** Cơ hội.
-- **Sign up (phrasal verb):** Đăng ký tham gia.
-- **Interested in:** Quan tâm/thích thú với cái gì.m writing to invite you to join a new computer programming club at our university. I know you are very interested in technology and IT, so I think this club is perfect for you. We will learn how to code basic apps and design websites. It is also a great opportunity to meet people who share the same passion.
+The club organizes weekly workshops where members can learn how to code basic mobile applications using Python and Java, and we also have sessions on website design using HTML, CSS, and JavaScript. It is also a great **opportunity** to meet like-minded people who share the same **passion** for technology. The instructors are senior students who work as freelance developers, so they have real industry experience to share.
 
-The club meets every Saturday morning at Room 301. The first session starts next week.
+The club meets every Saturday morning from 9 AM to 12 PM at Room 301 in the IT building. The first session starts next Saturday, so there's still time to register. The membership fee is only 100,000 VND for the whole semester, which I think is very reasonable.
 
-Let me know if you want to join so we can sign up together.
+Let me know as soon as possible if you want to join so we can **sign up** together. I've already registered and I'm really excited about it!
 
 Best regards,
 Nam
+
+**Word count:** 180 words
+
+### Vocabulary Analysis
+- **Brand new (adj):** Hoàn toàn mới
+- **Interested in (phrase):** Quan tâm/thích thú với cái gì
+- **Opportunity (n):** Cơ hội
+- **Like-minded people (n):** Những người cùng chí hướng
+- **Passion (n):** Niềm đam mê
+- **Freelance developer (n):** Lập trình viên tự do
+- **Industry experience (n):** Kinh nghiệm thực tế trong ngành
+- **Sign up (phrasal verb):** Đăng ký tham gia
+- **Reasonable (adj):** Hợp lý
 
 ## Writing Task 2 (Full Sample Essay)
 **Topic:** Social media (Facebook, TikTok) has more negative effects than positive ones. Do you agree?
 
 **Sample Essay:**
-The popularity of social media platforms like Facebook and TikTok has sparked a debate about their impact on society. While some argue that they do more harm than good, I believe that social media is a double-edged sword, and its effects depend largely on how it is used.
+The popularity of social media platforms like Facebook, TikTok, and Instagram has **sparked a debate** about their impact on modern society. While some argue that they do more harm than good, I believe that social media is fundamentally a **double-edged sword**, and its effects depend largely on how responsibly it is used by individuals and regulated by governments.
+
+On the one hand, there are undeniable and serious negative aspects that cannot be ignored. The most alarming issue is addiction, particularly among teenagers and young adults. Many young people spend countless hours scrolling endlessly through feeds, watching short videos, and checking notifications compulsively, wasting valuable time that could be productively used for studying, exercising, or developing real-world relationships. This excessive screen time has been linked to attention deficit issues and reduced academic performance. Furthermore, social media platforms often spread **fake news** and misinformation at an alarming rate, as sensational content spreads faster than factual information. They also promote unrealistic lifestyles, beauty standards, and materialistic values through carefully curated posts and filtered images, which can lead to serious mental health problems including anxiety, depression, and low self-esteem, especially among impressionable young users. **Cyberbullying** is another grave danger that has driven some victims to suicide. Online harassment can be relentless and public, causing severe psychological trauma.
+
+On the other hand, the benefits and positive impacts of social media cannot be overlooked or dismissed entirely. It is undeniably a powerful tool for connection and communication, allowing people to keep in touch with family and friends regardless of geographical distance. For immigrants and people with relatives abroad, platforms like Facebook are invaluable. During the COVID-19 pandemic, social media was literally a **lifeline** for millions of isolated people, enabling them to maintain social connections, work remotely, and access vital information. Additionally, social media serves as a vast democratized source of information and education. Many educational channels on TikTok, YouTube, and other platforms provide free and easily **accessible knowledge** to millions of people who might not have access to traditional educational resources. Social movements for social justice and environmental protection have also been amplified through social media.
+
+In conclusion, although the risks of addiction, misinformation, and mental health impacts are real and concerning, I do not agree that social media has overwhelmingly more negative effects than positive ones. If used responsibly and with proper digital literacy education, it remains a valuable tool for communication, learning, and social connection. Users should be educated on how to use it wisely, and platforms should be regulated to minimize harm while maximizing benefits.
+
+**Word count:** 270 words
 
 ### Vocabulary Analysis
-- **Spark a debate:** Châm ngòi cho một cuộc tranh luận.
-- **Double-edged sword (idiom):** Con dao hai lưỡi (có cả lợi và hại).
-- **Cyberbullying (n):** Bắt nạt qua mạng.
-- **Lifeline (n):** Dây cứu sinh / Phao cứu sinh (nghĩa bóng: thứ cực kỳ quan trọng giúp duy trì sự sống/kết nối).
-- **Accessible knowledge:** Kiến thức dễ tiếp cận.
-
-On the one hand, there are undeniable negatives. The most alarming issue is addiction. Many young people spend hours scrolling endlessly, wasting time that could be used for study or exercise. Furthermore, social media often spreads fake news and promotes unrealistic lifestyles, which can lead to anxiety and low self-esteem. Cyberbullying is another danger that can have severe mental health consequences.
-
-On the other hand, the benefits of social media cannot be overlooked. It is a powerful tool for connection, allowing people to keep in touch with family and friends regardless of distance. During the COVID-19 pandemic, social media was a lifeline for many. Additionally, it is a vast source of information and education. Many educational channels on TikTok or YouTube provide free and accessible knowledge to millions.
-
-In conclusion, although the risks of addiction and misinformation are real, I do not agree that social media has more negative effects. If used responsibly, it is a valuable tool for communication and learning. Users should be educated on how to use it wisely to maximize the benefits.
+- **Spark a debate (v):** Châm ngòi cho một cuộc tranh luận
+- **Double-edged sword (idiom):** Con dao hai lưỡi (có cả lợi và hại)
+- **Compulsively (adv):** Một cách bốc đồng/không kiểm soát được
+- **Attention deficit (n):** Thiếu tập trung
+- **Fake news (n):** Tin giả/Tin tức giả mạo
+- **Sensational content (n):** Nội dung giật gân
+- **Curated (adj):** Được tuyển chọn kỹ lưỡng
+- **Impressionable (adj):** Dễ bị ảnh hưởng
+- **Cyberbullying (n):** Bắt nạt qua mạng
+- **Relentless (adj):** Không ngừng nghỉ
+- **Psychological trauma (n):** Chấn thương tâm lý
+- **Invaluable (adj):** Vô giá
+- **Lifeline (n):** Phao cứu sinh (nghĩa bóng: thứ cực kỳ quan trọng)
+- **Democratized (adj):** Được dân chủ hóa
+- **Accessible knowledge (n):** Kiến thức dễ tiếp cận
+- **Digital literacy (n):** Hiểu biết kỹ thuật số
